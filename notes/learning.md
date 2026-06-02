@@ -12,3 +12,5 @@ My top 5 learnings
 
 5\. Git merging
 
+Assignment completed successfully.
+
